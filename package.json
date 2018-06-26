@@ -42,9 +42,7 @@
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^2.0.0",
     "webpack": "^4.1.1",
-    "webpack-cli": "^2.0.10"
-  },
-  "devDependencies": {
+    "webpack-cli": "^2.0.10",
     "axios-mock-adapter": "^1.14.1",
     "babel": "^6.23.0",
     "babel-loader": "^7.1.4",
