@@ -9,9 +9,8 @@ module.exports = {
       "url": "",
       "database": "",
       "password": "",
-      "name": "localmongodb",
+      "name": "MongoDB",
       "user": "",
       "connector": "mongodb"
     }
   }
-  
